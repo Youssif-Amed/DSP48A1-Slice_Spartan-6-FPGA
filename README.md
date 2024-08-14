@@ -2,7 +2,6 @@
 This repository contains the design, implementation, and verification of the DSP48A1 slice for Spartan-6 FPGAs. The project includes Verilog source files, testbenches, and documentation, along with detailed schematics for elaboration and synthesis. The design flow involves the use of Vivado for synthesis and implementation, and QuestaSim for simulation and verification.
 
 ## Repository Structure
-.
 ├── src/
 │ ├── DSP48A1.v # Main Verilog file for DSP48A1 slice
 │ ├── Mux1_2.v # Verilog file for 1-to-2 multiplexer
