@@ -8,7 +8,6 @@ This repository contains the design, implementation, and verification of the DSP
 │ ├── peline_stage_mod.v # Verilog file for pipeline stage module
 │ ├── Post_adder_subtract.v # Verilog file for post-adder/subtractor
 │ └── Pre_adder_subtract.v # Verilog file for pre-adder/subtractor
-
 ├── testbench/
 │ ├── DSP48A1_tb.v # Testbench for DSP48A1 slice
 │ └── run_DSP48A1.do # QuestaSim DO file for running simulations
