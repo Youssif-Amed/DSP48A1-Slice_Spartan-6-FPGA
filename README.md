@@ -18,7 +18,7 @@ This repository contains the design, implementation, and verification of the DSP
 
 ## Codes
 
-- [RTL Codes](RTLDesign)
+- [RTL Codes](RTL_Design)
 - [Testbench Codes](testbench)
 - [Synthesis and Implementation Screenshots](ScreenShots)
 
