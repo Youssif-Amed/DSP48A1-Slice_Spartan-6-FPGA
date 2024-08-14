@@ -12,8 +12,7 @@ This repository contains the design, implementation, and verification of the DSP
 - **Documentation**: Complete project manual detailing the design, simulation, and synthesis processes.
 
 ## Overall Block Diagram
-
-![DSP48A1  Diagram](path-to-image)
+[DSP48A1 Slice Primitive Diagram](DSAP48A1_Slice_Primitive.png)
 
 ## Resources
 This comprehensive specification ensures the DSP48A1 slice is optimally configured for high-performance digital signal processing applications within the Spartan-6 FPGA. For more info, refer to the original doc [Spartan-6 FPGA DSP48A1 Slice (User Guide)](https://www.xilinx.com/support/documentation/user_guides/ug389.pdf).
